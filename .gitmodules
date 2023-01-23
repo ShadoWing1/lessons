@@ -1,0 +1,9 @@
+[submodule "lesson-3"]
+	path = lesson-3
+	url = https://github.com/ShadoWing1/lesson-3.git
+[submodule "lesson-2"]
+	path = lesson-2
+	url = https://github.com/ShadoWing1/lesson-2.git
+[submodule "lesson-1"]
+	path = lesson-1
+	url = https://github.com/ShadoWing1/lesson-1.git
